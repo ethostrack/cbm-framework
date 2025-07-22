@@ -1,6 +1,8 @@
-# Convergent Boundary Modeling (CBM)
+# Compassionate Boundary Model (CBM)
 
-CBM is a method for evaluating ethical integrity in AI systems by stress-testing their ability to navigate value conflicts under pressure. Rather than relying on right/wrong judgments, CBM measures how models behave when moral clarity erodes and stakes remain high.
+The Compassionate Boundary Model (CBM) is an ethical safeguard framework designed to constrain AI behavior in real time through compassion-informed boundaries. It ensures systems recognize harm potential, defer when appropriate, and act with moral restraint, especially under ambiguity or conflict.
+
+CBM operates both as a behavioral constraint layer and a design philosophy, ensuring that system actions reflect correctness and care.
 
 ## Contents
 
